@@ -1,0 +1,16 @@
+{
+  "name": "utkarsh-skills",
+  "owner": {
+    "name": "utkarshgdb"
+  },
+  "plugins": [
+    {
+      "name": "my-skills",
+      "source": "./plugin",
+      "description": "Personal bundle: Impeccable, Cloudflare security-audit, Jeffallan fullstack skills, Composio awesome-claude-skills, claude-code-best-practice examples."
+    }
+  ],
+  "metadata": {
+    "description": "Personal Claude Code skills, agents, commands and hooks"
+  }
+}
